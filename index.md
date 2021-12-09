@@ -5,18 +5,17 @@ Olá, somos a Black Tech Academy.
 
 Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.
 
-### Benefícios:
+## Benefícios:
+- Conteúdo atual e extremamente qualificado
+- Bolsa auxílio 
+- Conexão com empresas parceiras após formado
+- Acompanhamento psicológico
+- Acompanhamento com Coach
+- Conexão com pessoas negras que já atuem na área
+- Letramento Racial
+- Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
 
-Conteúdo atual e extremamente qualificado
-Bolsa auxílio 
-Conexão com empresas parceiras após formado
-Acompanhamento psicológico
-Acompanhamento com Coach
-Conexão com pessoas negras que já atuem na área
-Letramento Racial
-Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
-
-### Competências Interpessoais (Soft Skills)
+## Competências Interpessoais (Soft Skills)
 - Resolução de Problemas
 - Comunicação
 - Colaboração
@@ -24,7 +23,7 @@ Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
 - Inteligência Emocional
 - Pensamento Crítico
 
-### Competências para o mercado de Trabalho
+## Competências para o mercado de Trabalho
 - Life Long Learning
 - Aprender a desaprender e reaprender
 - Gestão do tempo
@@ -37,7 +36,7 @@ Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
 - Resiliência e Plasticidade
 - Pitch pessoal
 
-###  Métodos Ágeis:
+##  Métodos Ágeis:
 - Scrum
 - Kanban
 - Squad
