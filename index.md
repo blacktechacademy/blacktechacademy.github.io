@@ -3,11 +3,11 @@
   
  
 
-<center> <font size="6">Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</font> </center>
+<center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</font><\b> </center>
 
   
 
-##  Benefícios:
+##  Benefícios
 
 - Conteúdo atual e extremamente qualificado
 
@@ -26,7 +26,7 @@
 - Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
 
   
-
+<center> <h2>O que iremos abordar</h2> </center>
 ###  Conteúdo técnico (Hard Skills):
 
 - Back End
@@ -37,7 +37,6 @@
 	- CSS
 	- JavaScript
 
-  
 
 ###  Competências Interpessoais (Soft Skills)
 
@@ -50,7 +49,7 @@
 
   
 
-##  Competências para o mercado de Trabalho
+###  Competências para o mercado de Trabalho
 
 - Life Long Learning
 - Aprender a desaprender e reaprender
@@ -83,7 +82,6 @@ Através do modelo de sucesso compartilhado (modelo testado e utilizado por dive
 ## Processo Seletivo (etapas)
 - Inscrição
 - Teste Técnico
-- Retorno
 - Entrevista
 - Avaliação do crédito
 - Assinatura
