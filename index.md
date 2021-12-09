@@ -63,7 +63,7 @@
 
 <center> <h1>Metodologia</h1> </center>
 
-Todo conteúdo será oferecido através de metodologia própria desenvolvida pela Black Tech Academy utilizando como referência métodos ativos de aprendizagem como Aprendizado Baseado em Projetos, Gamificação e métodos para co-criação e resolução de problemas como Design Sprint e Design Thinking. Além disso, com o objetivo de formar cidadãos responsáveis, através de cases reais, nossos alunos estarão constantemente em contato com os 17 Objetivos de Desenvolvimento Sustentável da ONU
+<center>Todo conteúdo será oferecido através de metodologia própria desenvolvida pela Black Tech Academy utilizando como referência métodos ativos de aprendizagem como Aprendizado Baseado em Projetos, Gamificação e métodos para co-criação e resolução de problemas como Design Sprint e Design Thinking. Além disso, com o objetivo de formar cidadãos responsáveis, através de cases reais, nossos alunos estarão constantemente em contato com os 17 Objetivos de Desenvolvimento Sustentável da ONU.</center>
 
   
 <center> <h1>Como funciona</h1> </center>
@@ -77,4 +77,4 @@ Todo conteúdo será oferecido através de metodologia própria desenvolvida pel
 - Avaliação do crédito
 - Assinatura
 
-# Manifesto
+<center> <h1> Manifesto</h1> </center>
