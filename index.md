@@ -56,8 +56,7 @@
 - Pitch pessoal
 
 
-##  Métodos Ágeis:
-
+###  Métodos Ágeis:
 - Scrum
 - Kanban
 - Squad
