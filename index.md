@@ -1,11 +1,9 @@
 
 <center> <h1>Black Tech Academy</h1> </center>
   
+ 
 
-Olá, somos a Black Tech Academy.
-  
-
-Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.
+<center> Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</center>
 
   
 
