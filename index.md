@@ -3,26 +3,19 @@
   
  
 
-<center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</font><\b> </center>
+<center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</font></b> </center>
 
   
 
 ##  Benefícios
 
 - Conteúdo atual e extremamente qualificado
-
 - Bolsa auxílio
-
 - Conexão com empresas parceiras após formado
-
 - Acompanhamento psicológico
-
 - Acompanhamento com Coach
-
 - Conexão com pessoas negras que já atuem na área
-
 - Letramento Racial
-
 - Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
 
   
