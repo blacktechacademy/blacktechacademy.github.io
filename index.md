@@ -3,7 +3,7 @@
   
  
 
-<center> Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</center>
+<center> <font size="2">Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</font> </center>
 
   
 
@@ -76,8 +76,7 @@
 Todo conteúdo será oferecido através de metodologia própria desenvolvida pela Black Tech Academy utilizando como referência métodos ativos de aprendizagem como Aprendizado Baseado em Projetos, Gamificação e métodos para co-criação e resolução de problemas como Design Sprint e Design Thinking. Além disso, com o objetivo de formar cidadãos responsáveis, através de cases reais, nossos alunos estarão constantemente em contato com os 17 Objetivos de Desenvolvimento Sustentável da ONU
 
   
-
-# Como funciona:
+<center> <h1>Como funciona</h1> </center>
 
 Através do modelo de sucesso compartilhado (modelo testado e utilizado por diversas empresas do segmento), permitimos que nossos alunos iniciem o pagamento do curso somente após estarem empregados e recebendo uma renda mínima de 3.500 reais por mês. Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer bolsas de até 1.500 reais, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.
 
