@@ -82,3 +82,12 @@ Todo conteúdo será oferecido através de metodologia própria desenvolvida pel
 # Como funciona:
 
 Através do modelo de sucesso compartilhado (modelo testado e utilizado por diversas empresas do segmento), permitimos que nossos alunos iniciem o pagamento do curso somente após estarem empregados e recebendo uma renda mínima de 3.500 reais por mês. Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer bolsas de até 1.500 reais, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.
+
+## Processo Seletivo (etapas)
+Inscrição
+Teste Técnico
+Retorno
+Entrevista
+Avaliação do crédito
+Assinatura
+
