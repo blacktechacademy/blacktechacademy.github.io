@@ -1,6 +1,5 @@
 
-#  Black Tech Academy
-
+<center> <h1>Black Tech Academy</h1> </center>
   
 
 Olá, somos a Black Tech Academy.
