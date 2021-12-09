@@ -3,7 +3,7 @@
   
  
 
-<center> <font size="2">Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</font> </center>
+<center> <font size="6">Nosso propósito é transformar a vida de pessoas negras através da formação e inserção no mercado de Tecnologia da Informação.</font> </center>
 
   
 
@@ -27,7 +27,7 @@
 
   
 
-##  Conteúdo técnico (Hard Skills):
+###  Conteúdo técnico (Hard Skills):
 
 - Back End
 	- Algoritmos
@@ -39,7 +39,7 @@
 
   
 
-##  Competências Interpessoais (Soft Skills)
+###  Competências Interpessoais (Soft Skills)
 
 - Resolução de Problemas
 - Comunicação
