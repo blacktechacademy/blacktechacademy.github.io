@@ -13,51 +13,6 @@
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 
-<script>	
-  (function(document) {
-    var cssClassDone = 'done';
-    //var textDone = '00:00:00:00';
-    var textDone = 'done';
-    var countDownDate = '2022.03.21 15:37:25'
-    
-    function pad(input) {
-        return input < 10 ? '0' + input : input;
-    }
-  
-    function startTimer(nodes) {
-      var distance, days, hours, minutes, seconds, output, dstData = new Date(countDownDate).getTime();
-      var interval = setInterval(function () {
-        distance = (dstData - (new Date()).getTime()) /1000;
-        days = Math.floor(distance / 86400);
-        hours = Math.floor((distance % 86400) / 3600);
-        minutes = Math.floor((distance % 3600) / 60);
-        seconds = Math.floor(distance % 60);
-        output = pad(days) + ':' + pad(hours) + ':' + pad(minutes) + ':' + pad(seconds);
-    
-        for(var i=0, m=nodes.length;i<m;i++){
-          nodes[i].textContent = output;
-        }
-        if (distance < 0) {
-          clearInterval(interval);
-          for(var i=0;i<nodes.length;i++){
-            nodes[i].classList.add(cssClassDone);
-            nodes[i].textContent = textDone;
-          }
-        }
-      }, 1000);
-    }
-  
-    window.onload = function () {
-       startTimer(document.querySelectorAll('.timer'));
-    };
-  })(document);
-  
-</script>
-
-<style>
-  .done {color: tomato !important;}
-</style>
-
 <br />
 
 <center> <h2>Benefícios</h2> </center>
