@@ -83,9 +83,13 @@
 ## Processo Seletivo (etapas)
 <center>- Pré inscrição
 - Inscrição
+	
 - Teste Técnico
+	
 - Entrevista
+	
 - Avaliação do crédito
+	
 - Assinatura</center>
 
 <center> <h1> Manifesto</h1> </center>
