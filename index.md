@@ -54,6 +54,10 @@
   
 </script>
 
+<style>
+  .done {color: tomato !important;}
+</style>
+
 <br />
 
 <center> <h2>Benefícios</h2> </center>
