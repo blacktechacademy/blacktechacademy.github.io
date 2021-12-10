@@ -69,7 +69,7 @@
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
 
-Clique (aqui)[https://example.org] e acesse nossa grade curricular completa
+Clique [aqui](https://example.org) e acesse nossa grade curricular completa
 
 
 <center> <h1>Metodologia</h1> </center>
