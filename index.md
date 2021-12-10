@@ -51,7 +51,7 @@
 - Life Long Learning
 - Aprender a desaprender e reaprender
 - Gestão do tempo
-- Currículo e Linkedin
+- Currículo e LinkedIn
 - Produtividade
 - FeedBack
 - Personal Branding
@@ -67,7 +67,7 @@
 - Squad
 
 
-<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
+<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:30px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
 
 <center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center>
 
