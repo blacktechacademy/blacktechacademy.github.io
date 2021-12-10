@@ -5,7 +5,7 @@
 
 <center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através de sua formação e inserção no mercado de Tecnologia da Informação.</font></b> </center>
 
-\s 
+&nbsp; 
  
 
 <center> <b><font size="4">Receba uma bolsa de 1.500 reais por mês para aprender a programar e comece a pagar o curso somente após estar empregado</font></b></center> 
