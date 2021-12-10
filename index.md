@@ -84,6 +84,7 @@
   
 ## Processo Seletivo (etapas)
 .center[
+.bullets[
 - Pré inscrição
 
 - Inscrição
@@ -96,4 +97,6 @@
 	
 - Assinatura
 ]
+]
+
 <center> <h1> Manifesto</h1> 
