@@ -13,7 +13,7 @@
 
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
-
+<br />
 
 <center> <h2>Benefícios</h2> </center>
 
@@ -78,13 +78,12 @@
 
 <center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center>
 
-
-
+<br />
 <center> <h1>Metodologia</h1> </center>
 
 <center>Todo conteúdo será oferecido através de metodologia própria desenvolvida pela Black Tech Academy utilizando como referência métodos ativos de aprendizagem como Aprendizado Baseado em Projetos, Gamificação e métodos para co-criação e resolução de problemas como Design Sprint e Design Thinking. Além disso, com o objetivo de formar cidadãos responsáveis, através de <i>cases</i> reais, nossos alunos estarão constantemente em contato com os 17 Objetivos de Desenvolvimento Sustentável da ONU.</center>
 
-
+<br />
 <center> <h2>Como funciona</h2> </center>
 
 <center> Através do modelo de sucesso compartilhado (modelo testado e utilizado por diversas empresas do segmento), permitimos que nossos alunos iniciem o pagamento do curso (R$ 12.000) somente após estarem empregados e recebendo uma renda mínima de 3.000 reais por mês.</center>
