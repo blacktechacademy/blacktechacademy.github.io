@@ -69,6 +69,8 @@
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
 
+Clique (aqui)[https://example.org] e acesse nossa grade curricular completa
+
 
 <center> <h1>Metodologia</h1> </center>
 
@@ -81,7 +83,9 @@
 <center>Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer <b>bolsas de auxílio de até 1.500 reais</b>, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.</center>
   
 ## Processo Seletivo (etapas)
-<p style="text-align: center;">- Pré inscrição
+<p style="text-align: center;">
+- Pré inscrição
+
 - Inscrição
 	
 - Teste Técnico
@@ -90,6 +94,6 @@
 	
 - Avaliação do crédito
 	
-- Assinatura</center>
+- Assinatura</p>
 
-<center> <h1> Manifesto</h1> </p>
+<center> <h1> Manifesto</h1> 
