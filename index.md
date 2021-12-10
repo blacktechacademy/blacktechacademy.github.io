@@ -20,7 +20,10 @@
 - Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
 
   
-<center> <h2>O que iremos abordar</h2> </center>
+<center> <h2>Grade curricular macro</h2> </center>
+
+<center> <h2>500 hrs de formação - 4 meses de duração</h2> </center>
+
 ###  Conteúdo técnico (Hard Skills):
 
 - Back End
@@ -42,7 +45,6 @@
 - Pensamento Crítico
 
   
-
 ###  Competências para o mercado de Trabalho
 
 - Life Long Learning
