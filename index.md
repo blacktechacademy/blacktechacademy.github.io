@@ -22,7 +22,7 @@
   
 <center> <h2>Grade curricular macro</h2> </center>
 
-<center> <h2>500 hrs de formação - 4 meses de duração</h2> </center>
+<center> <h2>500 hrs de formação (4 meses de duração)</h2> </center>
 
 ###  Conteúdo técnico (Hard Skills):
 
