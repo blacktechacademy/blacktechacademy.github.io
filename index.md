@@ -9,8 +9,7 @@
  
 
 <center> <b><font size="4">Receba uma bolsa de 1.500 reais por mês para aprender a programar e comece a pagar o curso somente após estar empregado</font></b></center> 
-
-
+<br />
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 <br />
@@ -26,6 +25,7 @@
 - Letramento Racial
 - Aprendizado Personalizado (ITS) - Através de Inteligência Artificial
 
+<br />
   
 <center> <h2>Grade curricular macro</h2> </center>
 
