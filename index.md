@@ -6,7 +6,7 @@
 <center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através de sua formação e inserção no mercado de Tecnologia da Informação.</font></b> </center>
 
 
-<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:40px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
+<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
   
 <center> <h2>Benefícios</h2> </center>
 
@@ -55,7 +55,7 @@
 - Produtividade
 - FeedBack
 - Personal Branding
-- Treinamento p/ entrevistas
+- Treinamento para entrevistas
 - Construção de portfólio
 - Resiliência e Plasticidade
 - Pitch pessoal
@@ -81,7 +81,7 @@
 <center>Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer <b>bolsas de auxílio de até 1.500 reais</b>, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.</center>
   
 ## Processo Seletivo (etapas)
-<center>- Pré inscrição
+<p style="text-align: center;">- Pré inscrição
 - Inscrição
 	
 - Teste Técnico
@@ -92,4 +92,4 @@
 	
 - Assinatura</center>
 
-<center> <h1> Manifesto</h1> </center>
+<center> <h1> Manifesto</h1> </p>
