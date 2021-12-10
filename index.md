@@ -69,7 +69,7 @@
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
 
-<center>Clique [aqui](https://example.org) e acesse nossa grade curricular completa</center>
+<center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center>
 
 
 <center> <h1>Metodologia</h1> </center>
@@ -94,6 +94,6 @@
 	
 - Avaliação do crédito
 	
-- Assinatura</p>
+- Assinatura
 ]
 <center> <h1> Manifesto</h1> 
