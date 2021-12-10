@@ -6,7 +6,7 @@
 <center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através de sua formação e inserção no mercado de Tecnologia da Informação.</font></b> </center>
 
 
-<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:60px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
+<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:40px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
   
 <center> <h2>Benefícios</h2> </center>
 
@@ -67,7 +67,7 @@
 - Squad
 
 
-<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:30px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
+<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
 
 
 <center> <h1>Metodologia</h1> </center>
