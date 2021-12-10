@@ -83,7 +83,7 @@
 <center>Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer <b>bolsas de auxílio de até 1.500 reais</b>, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.</center>
   
 ## Processo Seletivo (etapas)
-<p style="text-align: center;">
+.center[
 - Pré inscrição
 
 - Inscrição
@@ -95,5 +95,5 @@
 - Avaliação do crédito
 	
 - Assinatura</p>
-
+]
 <center> <h1> Manifesto</h1> 
