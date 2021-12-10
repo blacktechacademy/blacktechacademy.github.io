@@ -13,7 +13,7 @@
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 
-script>	
+<script>	
   (function(document) {
     var cssClassDone = 'done';
     //var textDone = '00:00:00:00';
