@@ -6,7 +6,7 @@
 <center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através de sua formação e inserção no mercado de Tecnologia da Informação.</font></b> </center>
 
 
-<center> <b><font size="3"><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" target="_blank">Garanta sua pré inscrição agora</a></font></b> </center>
+<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:160px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
   
 <center> <h2>Benefícios</h2> </center>
 
@@ -65,6 +65,9 @@
 - Scrum
 - Kanban
 - Squad
+
+<center> <b><font size="3"><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" target="_blank">Realizar pré inscrição</a></font></b> </center>
+
 
 <center> <h1>Metodologia</h1> </center>
 
