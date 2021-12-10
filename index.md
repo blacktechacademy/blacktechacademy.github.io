@@ -87,7 +87,7 @@
 <br />
 <center> <h2>Como funciona</h2> </center>
 
-<center> Através do modelo de sucesso compartilhado (modelo testado e utilizado por diversas empresas do segmento), permitimos que nossos alunos iniciem o pagamento do curso (R$ 12.000) somente após estarem empregados e recebendo uma renda mínima de 3.000 reais por mês.</center>
+<center> Através do modelo de sucesso compartilhado (modelo testado e utilizado por diversas empresas do segmento), permitimos que nossos alunos iniciem o pagamento do curso (R$ 12.000) somente após estarem empregados e recebendo uma renda mínima de R$ 3.000 reais por mês.</center>
 
 <center>Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer <b>bolsas de auxílio de até 1.500 reais</b>, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.</center>
   
