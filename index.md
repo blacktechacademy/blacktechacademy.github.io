@@ -6,7 +6,7 @@
 <center> <b><font size="5">Nosso propósito é transformar a vida de pessoas negras através de sua formação e inserção no mercado de Tecnologia da Informação.</font></b> </center>
 
 
-
+<center> <b><font size="3">(Garanta sua pré inscrição agora)[https://4q2puhna2fh.typeform.com/to/UOrkOMxe]</font></b> </center>
   
 <center> <h2>Benefícios</h2> </center>
 
@@ -26,10 +26,11 @@
 
 ###  Conteúdo técnico (Hard Skills):
 
-- Back End
+- Desenvolvimento Back End
 	- Algoritmos
 	- Banco de Dados
-- Front End:
+	- APIs
+- Desenvolvimento Front End:
 	- HTML
 	- CSS
 	- JavaScript
@@ -76,6 +77,7 @@
 <center>Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer <b>bolsas de auxílio de até 1.500 reais</b>, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.</center>
   
 ## Processo Seletivo (etapas)
+- Pré inscrição
 - Inscrição
 - Teste Técnico
 - Entrevista
