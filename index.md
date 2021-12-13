@@ -14,9 +14,6 @@
 <center> <b><font size="4">Receba uma bolsa de 1.500 reais por mês para aprender a programar e comece a pagar o curso somente após estar empregado</font></b></center> 
 <br />
 
-<center> 
-	<b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
-
 
 <p align="center">
   <img width="550" src="https://user-images.githubusercontent.com/95772028/145864464-1096c118-2b4d-49a3-bc76-e2ed5d678ec1.png">
@@ -84,7 +81,9 @@
 - Squad
 
 
-<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:30px; text-decoration: none" target="_blank">Realizar pré inscrição</a></b> </center>
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/95772028/145865535-06cf34e3-5a30-40e9-989f-1f03f9cd7958.png">
+</p>
 
 <center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center>
 
