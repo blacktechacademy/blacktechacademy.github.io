@@ -82,7 +82,7 @@
 
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/95772028/145866469-07d32cce-c296-4724-9057-33f652bd6652.png>
+  <img width="500" src="https://user-images.githubusercontent.com/95772028/145866469-07d32cce-c296-4724-9057-33f652bd6652.png">
 </p>
 
 <center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center>
