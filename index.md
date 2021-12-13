@@ -17,8 +17,11 @@
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 
 
-[<img src="https://user-images.githubusercontent.com/95772028/145862705-c4e90d7a-faa7-466b-84d5-cdc9714cdaf0.png" width="550"/>](Garanta sua pré inscrição agora)
-															
+[<img src="https://user-images.githubusercontent.com/95772028/145864045-1a3bb1b2-6c10-49c3-891e-098266621d14.png" width="550"/>](Garanta sua pré inscrição agora)
+
+<p align="center">
+  <img width="550" src="https://user-images.githubusercontent.com/95772028/145864045-1a3bb1b2-6c10-49c3-891e-098266621d14.png">
+</p>
 																
 <br />
 
