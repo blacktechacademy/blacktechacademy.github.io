@@ -15,8 +15,9 @@ https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 
-[<img src="https://user-images.githubusercontent.com/95772028/145860468-461f0c05-532e-41a4-84e3-f82d6f56e19d.png" width="250"/>](Garanta sua pré inscrição agora)
-																
+<center>
+[<img src="https://user-images.githubusercontent.com/95772028/145862012-894e731a-558a-4f5a-bcaf-75f15dd2a77d.png" width="550"/>](Garanta sua pré inscrição agora)
+</center>																
 																
 <br />
 
@@ -110,4 +111,4 @@ https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-
 	
 - Assinatura
 
-<center> <h1> Manifesto</h1> 
+<center> <h1> Manifesto</h1> </center>
