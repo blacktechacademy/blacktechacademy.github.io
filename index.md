@@ -1,4 +1,6 @@
 
+<video src="https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-9da0-a2113931b6d0.mp4 controls="controls" style="max-width: 730px;"></video>
+
 <center> <h1>Black Tech Academy</h1> </center>
   
  
@@ -90,7 +92,8 @@
 <center> Através do modelo de sucesso compartilhado (modelo testado e utilizado por diversas empresas do segmento), permitimos que nossos alunos iniciem o pagamento do curso (R$ 12.000) somente após estarem empregados e recebendo uma renda mínima de R$ 3.000 reais por mês.</center>
 
 <center>Além disso, por meio de parcerias com empresas privadas e do terceiro setor, iremos oferecer <b>bolsas de auxílio de até 1.500 reais</b>, para que nossos alunos tenham um meio de subsistência ao longo do curso e possam estudar com tranquilidade.</center>
-  
+
+<br />
 ## Processo Seletivo (etapas)
 - Pré inscrição
 
