@@ -1,5 +1,6 @@
 
-https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-9da0-a2113931b6d0.mp4
+<video src="https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-9da0-a2113931b6d0.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 <center> <h1>Black Tech Academy</h1> </center>
   
