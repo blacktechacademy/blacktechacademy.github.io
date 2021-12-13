@@ -1,5 +1,5 @@
 
-<video src="https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-9da0-a2113931b6d0.mp4 controls="controls" style="max-width: 730px;"></video>
+https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-9da0-a2113931b6d0.mp4
 
 <center> <h1>Black Tech Academy</h1> </center>
   
@@ -15,7 +15,7 @@
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 
-[<img src="https://user-images.githubusercontent.com/95772028/145860468-461f0c05-532e-41a4-84e3-f82d6f56e19d.png" width="25"/>](Garanta sua pré inscrição agora)
+[<img src="https://user-images.githubusercontent.com/95772028/145860468-461f0c05-532e-41a4-84e3-f82d6f56e19d.png" width="250"/>](Garanta sua pré inscrição agora)
 																
 																
 <br />
