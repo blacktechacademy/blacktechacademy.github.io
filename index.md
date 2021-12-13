@@ -15,7 +15,7 @@
 
 <center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 
-[<img src="https://github.com/blacktechacademy/blacktechacademy.github.io/blob/main/fig/button-1.png" width="25"/>](https://4q2puhna2fh.typeform.com/to/UOrkOMxe)
+[<img src="https://user-images.githubusercontent.com/95772028/145860468-461f0c05-532e-41a4-84e3-f82d6f56e19d.png" width="25"/>](Garanta sua pré inscrição agora)
 																
 																
 <br />
