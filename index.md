@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img width="550" src="https://user-images.githubusercontent.com/95772028/145866033-cea65ce7-7c3e-4707-97f4-1b2523fa01a1.png">
+  <img width="550" src="https://user-images.githubusercontent.com/95772028/145866592-4348f5c0-8ad4-40b1-9489-b02832ace01b.png">
 </p>
 																
 <br />
@@ -82,7 +82,7 @@
 
 
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/95772028/145866148-6c15de52-636e-426a-8178-1b05c7303b8c.png">
+  <img width="500" src="https://user-images.githubusercontent.com/95772028/145866469-07d32cce-c296-4724-9057-33f652bd6652.png>
 </p>
 
 <center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center>
