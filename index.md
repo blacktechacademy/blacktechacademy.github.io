@@ -1,6 +1,6 @@
-
-<video src="https://user-images.githubusercontent.com/95772028/145857266-b6aea1b4-7c00-4567-9da0-a2113931b6d0.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<center>
+<img src="https://user-images.githubusercontent.com/95772028/145864907-3f3dc16f-80f1-49d4-8162-7b46a28970c0.gif" width="200" />
+</center>
 
 <center> <h1>Black Tech Academy</h1> </center>
   
@@ -14,13 +14,12 @@
 <center> <b><font size="4">Receba uma bolsa de 1.500 reais por mês para aprender a programar e comece a pagar o curso somente após estar empregado</font></b></center> 
 <br />
 
-<center> <b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
+<center> 
+	<b><a href="https://4q2puhna2fh.typeform.com/to/UOrkOMxe" style="font-size:35px; text-decoration: none" target="_blank">Garanta sua pré inscrição agora</a></b> </center>
 
-
-[<img src="https://user-images.githubusercontent.com/95772028/145864045-1a3bb1b2-6c10-49c3-891e-098266621d14.png" width="550"/>](Garanta sua pré inscrição agora)
 
 <p align="center">
-  <img width="550" src="https://user-images.githubusercontent.com/95772028/145864045-1a3bb1b2-6c10-49c3-891e-098266621d14.png">
+  <img width="550" src="https://user-images.githubusercontent.com/95772028/145864464-1096c118-2b4d-49a3-bc76-e2ed5d678ec1.png">
 </p>
 																
 <br />
