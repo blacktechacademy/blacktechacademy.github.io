@@ -11,7 +11,7 @@
 &nbsp; 
  
 
-<center> <b><font size="4">Receba uma bolsa de 1.500 reais por mês para aprender a programar e comece a pagar o curso somente após estar empregado</font></b></center> 
+<center> <b><font size="4">Receba uma bolsa de até <b>R$ 1.500</b> reais por mês para aprender a programar e comece a pagar o curso somente após estar empregado</font></b></center> 
 <br />
 
 
