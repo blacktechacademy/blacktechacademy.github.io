@@ -98,7 +98,7 @@
 
 <br />
 <center> <h1>Quem somos</h1> </center>
-<center>Somos uma Startup formada 100% por pessoas negras, nascemos da inquietação ao ver um ambiente tecnológico extremamente homogêneo onde a diversidade racial está muito longe de representar a demografia brasileira. </center>
+<center>Somos uma Startup formada 100% por pessoas negras. Nascemos da inquietação ao ver um ambiente tecnológico extremamente homogêneo onde a diversidade racial está muito longe de representar a demografia brasileira. </center>
 <center>Nesse sentido, nos posicionamos no mercado como um agente privado catalisador de mudanças estruturais que para além de auxiliar na redução do <i>gap</i> técnico existente no setor também tem como propósito transformar a vida de pessoas negras através de sua formação e inserção no mercado de tecnologia.</center>
 
 <br />
