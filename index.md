@@ -1,14 +1,8 @@
 
-  <body>
-
-    <header>
-      
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <center>
-<img src="https://user-images.githubusercontent.com/95772028/145864907-3f3dc16f-80f1-49d4-8162-7b46a28970c0.gif" width="1000">
+<header>
+</header>
+<center>
+<img src="https://user-images.githubusercontent.com/95772028/145864907-3f3dc16f-80f1-49d4-8162-7b46a28970c0.gif" width="1000" />
 </center>
 
 <center> <h1>Black Tech Academy</h1> </center>
