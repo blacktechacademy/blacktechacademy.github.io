@@ -92,7 +92,7 @@
       </a>
 </p>
 
-<center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center>
+<!--- <center>Clique <a href="https://example.org" target="_blank">aqui</a> e acesse nossa grade curricular completa</center> -->
 
 <br />
 <center> <h1>Quem somos</h1> </center>
